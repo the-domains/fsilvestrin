@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[fsilvestrin]]></title>
-        <description><![CDATA[fsilvestrin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[filmmaking + art direction]]></title>
+        <description><![CDATA[filmmaking + art direction]]></description>
+        <link>https://thegrid.ai/fsilvestrin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 17:15:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 31 Oct 2015 17:27:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fsilvestrin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Falco Trio - Someone to lean on]]></title>
+            <description><![CDATA[<article><h1>Falco Trio - Someone to lean on</h1><p>This is "Falco Trio - Someone to lean on" by 643films on Vimeo, the home for high quality videos and the people who love them.</p><img src="http://i.vimeocdn.com/video/517727349_1280.jpg"></article>]]></description>
+            <link>https://vimeo.com/127046927</link>
+            <guid isPermaLink="false">cf1b221b-a974-4235-a9bf-a98a1d7c6e67</guid>
+            <pubDate>Sat, 31 Oct 2015 17:27:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Joel Havea | Going Gone | Official Video]]></title>
             <description><![CDATA[<article><h1>Joel Havea | Going Gone | Official Video</h1><p>Official music video for "Going Gone" by Joel Havea</p><img src="https://i.ytimg.com/vi/xtWtd-khMeA/hqdefault.jpg"></article>]]></description>
