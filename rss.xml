@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[fsilvestrin]]></title>
+        <description><![CDATA[fsilvestrin]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 31 Oct 2015 17:15:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Joel Havea | Going Gone | Official Video]]></title>
+            <description><![CDATA[<article><h1>Joel Havea | Going Gone | Official Video</h1><p>Official music video for "Going Gone" by Joel Havea</p><img src="https://i.ytimg.com/vi/xtWtd-khMeA/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=xtWtd-khMeA</link>
+            <guid isPermaLink="false">3461a940-cc51-4638-bb7b-4e92688c8ad6</guid>
+            <pubDate>Sat, 31 Oct 2015 17:15:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
