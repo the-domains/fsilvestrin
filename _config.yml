@@ -1,0 +1,23 @@
+name: fsilvestrin
+favicon: null
+layout_spectrum: 0.2292064696084708
+typography_spectrum: 0.3841994167305529
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7620360197033733
+  lightness: 0.8203645765315741
+  saturation: 0.823670910205692
+  rhythmicContrast: 0.1114581129513681
+purpose: []
